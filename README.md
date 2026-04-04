@@ -33,9 +33,8 @@ I have extensive experience working on the [FiveM](https://fivem.net) ecosystem,
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LiamDormon&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LiamDormon&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDormon&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://ghstats.dev/api/card?username=LiamDormon&theme=nord&hide=active_day)<br/>
+![Top Languages](https://ghstats.dev/api/langs?username=LiamDormon&layout=bar&theme=nord)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LiamDormon&icon=0&color=12)](https://visitcount.itsvg.in)
